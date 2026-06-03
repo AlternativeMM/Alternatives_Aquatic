@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "alternatives_aquatic",
+	"version": "${version}",
+	"name": "Alternatives_Aquatic",
+	"description": "Alternative's Aquatic Update Mod",
+	"authors": [
+		"Alternative"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/alternatives_aquatic/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.alternative.alternatives_aquatic.Alternatives_Aquatic"
+		],
+		"fabric-datagen": [
+			"net.alternative.alternatives_aquatic.Alternatives_AquaticDataGenerator"
+		],
+		"client": [
+			"net.alternative.alternatives_aquatic.Alternatives_AquaticClient"
+		]
+	},
+	"mixins": [
+		"alternatives_aquatic.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
