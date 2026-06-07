@@ -3,7 +3,11 @@
 	"package": "net.alternative.alternatives_aquatic.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"PlayerEntityMixin"
+	],
+	"client": [
+		"MinecraftClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

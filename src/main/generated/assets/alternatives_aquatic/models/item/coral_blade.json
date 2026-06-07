@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "alternatives_aquatic:item/coral_blade"
+  }
+}

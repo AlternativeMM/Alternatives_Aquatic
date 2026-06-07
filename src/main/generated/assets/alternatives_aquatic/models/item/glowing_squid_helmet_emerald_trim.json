@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alternatives_aquatic:item/glowing_squid_helmet",
+    "layer1": "minecraft:trims/items/helmet_trim_emerald"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "item.alternatives_aquatic.turtle_chestplate": "Turtle Chestplate",
+  "item.alternatives_aquatic.turtle_leggings": "Turtle Leggings",
+  "item.alternatives_aquatic.turtle_boots": "Turtle Boots",
+
+  "item.alternatives_aquatic.squid_helmet": "Squid Helmet",
+  "item.alternatives_aquatic.squid_chestplate": "Squid Chestplate",
+  "item.alternatives_aquatic.squid_leggings": "Squid Leggings",
+  "item.alternatives_aquatic.squid_boots": "Squid Boots",
+
+  "item.alternatives_aquatic.glowing_squid_helmet": "Glowing Squid Helmet",
+  "item.alternatives_aquatic.glowing_squid_chestplate": "Glowing Squid Chestplate",
+  "item.alternatives_aquatic.glowing_squid_leggings": "Glowing Squid Leggings",
+  "item.alternatives_aquatic.glowing_squid_boots": "Glowing Squid Boots",
+
+  "item.alternatives_aquatic.coral_blade": "Coral Blade",
+  "item.alternatives_aquatic.nightmares_bite": "Nightmare's Bite",
+
+  "itemgroup.alternatives_aquatic.alternatives_aquatic_items": "Alternative's Aquatic Items"
+}
